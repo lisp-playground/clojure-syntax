@@ -1,3 +1,5 @@
+;; https://coldnew.github.io/pratice/4clojure/
+
 (= (- 10 (* 2 3)) 4)
 
 (= "HELLO WORLD" (.toUpperCase "hello world"))
